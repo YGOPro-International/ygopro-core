@@ -3,7 +3,7 @@
  *
  *  Created on: 2010-9-18
  *      Author: Argon
- */
+ */ 
 #include "field.h"
 #include "duel.h"
 #include "card.h"
