@@ -1,3 +1,4 @@
+This will be the new mainline for ygopro projects.
 #Ygopro script engine.
 
 ##Introduction
