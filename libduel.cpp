@@ -4,7 +4,6 @@
  *  Created on: 2010-5-6
  *      Author: Argon
  */
-
 #include "scriptlib.h"
 #include "duel.h"
 #include "field.h"
@@ -3463,4 +3462,4 @@ int32 scriptlib::duel_majestic_copy(lua_State *L) {
 		pcard->add_effect(ceffect);
 	}
 	return 0;
-}
+} 
