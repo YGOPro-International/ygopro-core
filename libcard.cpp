@@ -4,7 +4,6 @@
  *  Created on: 2010-5-6
  *      Author: Argon
  */
-
 #include "scriptlib.h"
 #include "duel.h"
 #include "field.h"
@@ -2367,3 +2366,4 @@ int32 scriptlib::card_set_spsummon_once(lua_State *L) {
 	pcard->pduel->game_field->core.global_flag |= GLOBALFLAG_SPSUMMON_ONCE;
 	return 0;
 }
+ 
